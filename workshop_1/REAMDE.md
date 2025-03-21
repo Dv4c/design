@@ -42,13 +42,13 @@
 
 ## Хід роботи
 1. Створюю папку workshop_1, у ній папку images та файл README.md. У папці images вставляю 3 зображення: текст, скріншот, фотографія:
-![]([workshop_1/images/photo.jpg](https://github.com/Dv4c/design/blob/main/workshop_1/images/photo.jpg?raw=true))
+![](https://github.com/Dv4c/design/blob/main/workshop_1/images/photo.jpg?raw=true)
 Рисунок 1.1 - Фото
 
-![]([workshop_1/images/screenshot.png](https://github.com/Dv4c/design/blob/main/workshop_1/images/screenshot.png?raw=true))
+![](https://github.com/Dv4c/design/blob/main/workshop_1/images/screenshot.png?raw=true)
 Рисунок 1.2 - Скріншот
 
-![]([workshop_1/images/text.png](https://github.com/Dv4c/design/blob/main/workshop_1/images/text.png?raw=true))
+![](https://github.com/Dv4c/design/blob/main/workshop_1/images/text.png?raw=true)
 Рисунок 1.3 - Текст
 
 2. Фіксую початковий формат та вагу файлу:

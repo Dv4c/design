@@ -14,7 +14,7 @@
 
 Рисунок 10.1 - Готовий вайрфрейм головної сторінки сайту
 
-![](https://github.com/Dv4c/design/blob/main/workshop_10/2.png?raw=true)
+![](https://github.com/Dv4c/design/blob/main/workshop_10/22.png?raw=true)
 
 Рисунок 10.2 - Готовий вайрфрейм першого товару
 

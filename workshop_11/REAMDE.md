@@ -52,6 +52,7 @@
 
 ### Типи гармоній:
 
+![](https://github.com/Dv4c/design/blob/main/workshop_11/image%20(3).png?raw=true)
 
 - **Analogous (Аналогічна)**  
   Кольори, що розташовані поруч на колірному колі.  

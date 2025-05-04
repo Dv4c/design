@@ -57,22 +57,32 @@
 - **Analogous (Аналогічна)**  
   Кольори, що розташовані поруч на колірному колі.  
   🔹 *Ефект:* м’якість, природність, спокій.
+  
+![](https://github.com/Dv4c/design/blob/main/workshop_11/image%20(4).png?raw=true)
 
 - **Monochromatic (Монохроматична)**  
   Один колір із варіаціями яскравості та насиченості.  
   🔹 *Ефект:* мінімалізм, чистота, цілісність.
+  
+![](https://github.com/Dv4c/design/blob/main/workshop_11/image%20(6).png?raw=true)
 
 - **Triad (Тріада)**  
   Три кольори з однаковим кутовим інтервалом (рівносторонній трикутник).  
   🔹 *Ефект:* контрастність із гармонією, жвавість.
+  
+![](https://github.com/Dv4c/design/blob/main/workshop_11/image%20(9).png?raw=true)
 
 - **Complementary (Комплементарна)**  
   Кольори, розташовані напроти один одного.  
   🔹 *Ефект:* сильний контраст, енергія, драма.
+  
+![](https://github.com/Dv4c/design/blob/main/workshop_11/image%20(9).png?raw=true)
 
 - **Split Complementary (Розділена комплементарна)**  
   Основний колір і два кольори, сусідні до протилежного.  
   🔹 *Ефект:* пом’якшений контраст, динамічний баланс.
+  
+![](https://github.com/Dv4c/design/blob/main/workshop_11/image%20(10).png?raw=true)
 
 - **Square (Квадратна)**  
   Чотири кольори, рівновіддалені на колі (утворюють квадрат).  
@@ -80,6 +90,18 @@
 
 ---
 ### Вибір кольорової палітри для інтерфейсу
+
+![](https://github.com/Dv4c/design/blob/main/workshop_11/image%20(11).png?raw=true)
+
+Тестове зображення
+
+![](https://github.com/Dv4c/design/blob/main/workshop_11/image%20(12).png?raw=true)
+
+Варіант настрою Colorfur
+
+![](https://github.com/Dv4c/design/blob/main/workshop_11/image%20(13).png?raw=true)
+
+Варіант настрою Muted
 
 На основі аналізу двох палітр, згенерованих із зображення, я вважаю, що **краще підходить палітра в приглушених тонах (muted)**.
 
@@ -96,8 +118,13 @@
 
 ### Створення градієнту на основі зображення (Extract Gradient)
 
+![](https://github.com/Dv4c/design/blob/main/workshop_11/image%20(14).png?raw=true)
 
 ###Аналіз контрасту (Accessibility Tools)
+
+![](https://github.com/Dv4c/design/blob/main/workshop_11/image%20(15).png?raw=true)
+
+![](https://github.com/Dv4c/design/blob/main/workshop_11/image%20(16).png?raw=true)
 
 #### пара кольорів проходить перевірку для звичайного тексту (AA) і великого тексту (ААА).
 

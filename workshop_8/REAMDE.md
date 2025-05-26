@@ -13,4 +13,6 @@
 
 Рисунок 8.1 - Готова частина сайту
 
+Посилання на фігму[Фігма](https://www.figma.com/design/4IN2Gs0QExFgSyr2PeUlIN/begin-site?t=yhUemlRyRCVkfekj-0)
+
 Висновок: на данній практичній роботі було повторено частину сайту у Figma.

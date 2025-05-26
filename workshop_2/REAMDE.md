@@ -16,5 +16,6 @@
 ![](https://github.com/Dv4c/design/blob/main/workshop_2/figma.png?raw=true)
 
 Рисунок 2.1 - Створений логотип фігми та приклад
+### Посилання на Figma студента: [Figma](https://www.figma.com/design/BHFXGmvFSGDLrBP2K8oUHb/Workshop_11?node-id=0-1&p=f&t=GrF10UG5ujiHU8gY-0)
 
 Висновок: на данній практичній роботі було використано прості форми для створення зображення за зразком.

@@ -13,4 +13,6 @@
 
 Рисунок 9.1 - Готова картка товару
 
+Посилання на фігму[Фігма](https://www.figma.com/design/RdEnRj0JQmbheKwDcUNJj1/buycard?t=yhUemlRyRCVkfekj-0)
+
 Висновок: на данній практичній роботі було створено нову картку товару
